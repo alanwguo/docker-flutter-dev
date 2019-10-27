@@ -1,0 +1,7 @@
+{
+    "dart.analyzerAdditionalArgs": [
+		"--enable-completion-model"
+	],
+    "editor.suggestSelection": "first",
+    "editor.formatOnSave": true
+}
