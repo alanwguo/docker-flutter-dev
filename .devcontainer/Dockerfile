@@ -13,3 +13,4 @@ RUN apt-get update && \
 ENV PATH $PATH:/flutter/bin/cache/dart-sdk/bin:/flutter/bin
 
 RUN flutter doctor
+RUN pub global activate devtools
